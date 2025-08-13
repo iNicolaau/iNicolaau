@@ -9,6 +9,9 @@ Tenho um forte interesse em:
 - Desenvolvimento de Software
 - Resolução de Problemas e Lógica
 
+Formação Acadêmica 🎓
+- Bacharelado Ciências da Computação (4 Semestre)
+
 ### Tecnologias que utilizo
 
 Aqui estão algumas das ferramentas e linguagens com as quais eu trabalho no meu dia a dia:
