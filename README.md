@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Nicolas! 👋</h1>
+<h1 align="center">Olá, eu sou o Nicolau! 👋</h1>
 
 ### Sobre mim
 
