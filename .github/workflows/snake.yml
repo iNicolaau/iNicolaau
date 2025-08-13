@@ -6,34 +6,25 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
+    name: Generate an anaconda
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
+      - uses: actions/checkout@v2
 
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - uses: Platane/snk@master
+        id: snake-gif
         with:
           github_user_name: iNicolaau
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
-      - name: Commit files
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add dist/github-snake.svg dist/github-snake-dark.svg dist/ocean.gif
-          git commit -m "feat: generate snake animation"
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+          gif_out_path: dist/github-snake.gif
+          svg_out_path: dist/github-snake.svg
+          color_snake: "#ffffff" # Cor da cobrinha
+          color_dots: "#ff9000,#ff6000,#e83636,#f6e246,#f8c339" # Cores dos pontos
+          
+      - uses: crazy-max/ghaction-github-pages@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
