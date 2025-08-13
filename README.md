@@ -24,7 +24,6 @@ Aqui estão algumas das ferramentas e linguagens com as quais eu trabalho no meu
 
 Neste espaço, compartilho projetos pessoais e estudos que demonstram meu progresso e paixão pela tecnologia. Você encontrará desde pequenos scripts para testes até projetos mais complexos que exploram diferentes linguagens e frameworks.
 
-- **Projetos fixados:** Dê uma olhada nos meus projetos em destaque para ver o que tenho feito ultimamente.
 - **Contribuições:** Acompanhe meu progresso e aprendizado através dos meus commits.
 
 ### Conecte-se comigo
