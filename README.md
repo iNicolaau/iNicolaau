@@ -39,14 +39,3 @@ Estou sempre aberto a novas conexões e oportunidades de aprendizado. Sinta-se �
 > _"A vida é uma jornada de aprendizado. Onde quer que estejamos, há sempre algo novo para descobrir."_
 
 ---
-<br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iNicolaau&layout=compact&hide=Jupyter%20Notebook&theme=dark" alt="Linguagens mais usadas" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/iNicolaau/iNicolaau/dist/github-snake-dark.svg" alt="Github Snake" />
-</p>
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iNicolaau/iNicolaau/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iNicolaau/iNicolaau/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/iNicolaau/iNicolaau/output/github-snake.svg" />
-</picture>
