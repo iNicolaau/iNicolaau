@@ -31,7 +31,7 @@ Neste espaço, compartilho projetos pessoais e estudos que demonstram meu progre
 
 Estou sempre aberto a novas conexões e oportunidades de aprendizado. Sinta-se à vontade para me seguir ou me chamar para uma conversa!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-de-souza-nicolau-17286626a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-nicolau-17286626a)
 
 
 ---
