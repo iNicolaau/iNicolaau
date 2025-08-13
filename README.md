@@ -41,8 +41,8 @@ Estou sempre aberto a novas conex√µes e oportunidades de aprendizado. Sinta-se √
 ---
 <br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iNicolaau&layout=compact&hide=Jupyter%20Notebook&theme=dark" alt="Linguagens mais usadas"
-
+  <img src="https://raw.githubusercontent.com/iNicolaau/iNicolaau/output/github-snake-dark.svg" alt="Github Snake" />
+</p>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iNicolaau/iNicolaau/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iNicolaau/iNicolaau/output/github-snake.svg" />
